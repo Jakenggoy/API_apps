@@ -27,9 +27,9 @@ To set up the application locally, follow these steps:
   ```
 
 2. Open the application:
-
+```
       open index.html
-   
+```
 
 ## Usage
 
